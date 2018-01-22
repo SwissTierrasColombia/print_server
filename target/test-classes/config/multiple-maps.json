@@ -1,0 +1,16 @@
+{
+	"maps": {
+		"main": {
+			"layers": [],
+			"srs": "EPSG:900913"
+		},
+		"other": {
+			"layers": [],
+			"srs": "EPSG:900913"
+		}
+	},
+	"dpi": "254", 
+	"srs": "EPSG:900913",
+	"center": [45.2, 13.1],
+	"scale": 20000
+}
